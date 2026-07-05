@@ -1,6 +1,6 @@
 # ¡Hola! Soy Edward Peñalo 👋
 
-Análisis de Seguridad | Azure Cloud Security | Enfoque Purple Team | Pentesting & AppSec
+Ingeniero de Seguridad | Cloud Security | Enfoque Purple Team |  AppSec
 
 Soy un profesional enfocado en la **Ciberseguridad** y el **Desarrollo de Herramientas de Seguridad**. Mi pasión es la investigación técnica, la simulación de adversarios (Pentesting) y la validación/endurecimiento de controles de seguridad en entornos Cloud, Busco aplicar mis conocimientos defensivos y ofensivos para diseñar estrategias robustas de mitigación de riesgos sin perder de vista la innovación y las tecnologías del futuro.
 
