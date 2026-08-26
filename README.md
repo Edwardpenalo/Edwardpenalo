@@ -19,25 +19,6 @@ Soy un profesional enfocado en la **Ciberseguridad** y el **Desarrollo de Herram
 
 ---
 
-### 📂 Proyectos Destacados (Mi Portafolio)
-
-#### 🛡️ [Herramienta/Repositorio 1] Escáner de Vulnerabilidades Web en Go
-*Descripción breve:* Desarrollo de un escáner automatizado en Golang diseñado para identificar fallos comunes de la capa de aplicación (AppSec) y validar configuraciones de seguridad.
-* [**Tecnologías:** Go, HTTP API, Concurrencia.
-* [👉 Ver repositorio](enlace-a-tu-proyecto)
-
-#### ☁️ [Herramienta/Repositorio 2] Scripts de Hardening y Auditoría para Azure
-[cite_start]*Descripción breve:* Colección de scripts y herramientas creadas para automatizar la auditoría de controles de acceso (RBAC), recolección de logs y detección de malas configuraciones en entornos de Azure.
-* **Tecnologías:** PowerShell, Azure CLI, Python.
-* [👉 Ver repositorio](enlace-a-tu-proyecto)
-
-#### 🧪 [Herramienta/Repositorio 3] Laboratorio de Simulación Purple Team
-*Descripción breve:* Documentación y playbooks de emulación de adversarios para probar la efectividad de controles defensivos frente a técnicas de ataque comunes[cite: 3, 32].
-* **Tecnologías:** Markdown, Docker, Linux[cite: 22].
-* [👉 Ver repositorio](enlace-a-tu-proyecto)
-
----
-
 ### 📈 Estadísticas de GitHub
 
 ![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=radical)
