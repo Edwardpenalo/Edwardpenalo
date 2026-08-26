@@ -31,4 +31,4 @@ Soy un profesional enfocado en la **Ciberseguridad** y el **Desarrollo de Herram
 Si deseas conversar sobre investigación en seguridad, proyectos de código abierto o colaboración en Purple Teaming, no dudes en escribirme:
 
 - 📧 **Correo Electrónico:** [edwardpenaloj@gmail.com](edwardpenaloj@gmail.com) 
-- 💼 **LinkedIn:** [Tu Perfil de LinkedIn](https://www.linkedin.com/in/edward-penalo/)
+- 💼 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/edward-penalo/)
