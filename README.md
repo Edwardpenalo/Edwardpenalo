@@ -1,12 +1,12 @@
-# ¡Hola! Soy Edward Peñalo 👋
+# ¡Hola! Soy Edward Peñalo 
 
 Ingeniero de Seguridad | Cloud Security | Enfoque Purple Team |  AppSec
 
 Soy un profesional enfocado en la **Ciberseguridad** y el **Desarrollo de Herramientas de Seguridad**. Mi pasión es la investigación técnica, la simulación de adversarios (Pentesting) y la validación/endurecimiento de controles de seguridad en entornos Cloud, Busco aplicar mis conocimientos defensivos y ofensivos para diseñar estrategias robustas de mitigación de riesgos sin perder de vista la innovación y las tecnologías del futuro.
 
-- 🎓 Actualmente cursando la **Ingeniería en Ciberseguridad** en la Universidad del Caribe.
-- 🚀 Orientando mi carrera hacia roles de **Ingeniería de Seguridad Cloud**, **Purple Teaming** ** Desarrollo de herramientas** e **Investigación de Vulnerabilidades** .
-- 🛠️ Desarrollador activo de herramientas de seguridad propias en **Go** y **Python**.
+-  Actualmente cursando la **Ingeniería en Ciberseguridad** en la Universidad del Caribe.
+- Orientando mi carrera hacia roles de **Ingeniería de Seguridad Cloud**, **Purple Teaming** ** Desarrollo de herramientas** e **Investigación de Vulnerabilidades** .
+-  Desarrollador activo de herramientas de seguridad propias en **Go** y **Python**.
 
 ---
 
@@ -19,7 +19,7 @@ Soy un profesional enfocado en la **Ciberseguridad** y el **Desarrollo de Herram
 
 ---
 
-### 📈 Estadísticas de GitHub
+### Estadísticas de GitHub
 
 ![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=radical)
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_DE_GITHUB&layout=compact&theme=radical)
