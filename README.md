@@ -19,12 +19,7 @@ Soy un profesional enfocado en la **Ciberseguridad** y el **Desarrollo de Herram
 
 ---
 
-### Estadísticas de GitHub
 
-![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_DE_GITHUB&layout=compact&theme=radical)
-
----
 
 ### 🤝 Conectemos
 
